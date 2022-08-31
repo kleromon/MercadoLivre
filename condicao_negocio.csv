@@ -1,0 +1,7 @@
+﻿,ID ordem,ID item,Descricao do produto,Custo total da ordem,Moeda utilizada,ID Shipment,logística,Estado e subestado do envio,Origem,Destino,Endereço completo,CEP / Zipcode
+0,4114988927,MLB1691332725,"1. Item test 1, Cor Branco
+",45.9,BRL,40179340134,Mercado Envios Coleta (cross_docking),"ready_to_ship, ready_for_pickup",Vendedor,Domicílio,"testes testes V, Test address, V, None, Pilares, Rio de Janeiro-Rio de Janeiro",21050900
+1,4114988960,MLB1691332726,"1. Item test 2, Cor amarelo
+",45.9,BRL,40179340302,Mercado Envios Places (xd_drop_off),"ready_to_ship, ready_for_pickup",Vendedor,"Agency ID: J98, carrier ID: 17500240","Fernando Asato, ZUFRIATEGUI, 1523, , VICENTE LOPEZ, VICENTE LOPEZ-Buenos Aires",1638
+2,4114999549,MLB1691332727,"1. Item test 3, Cor Azul
+",42.9,BRL,40179347533,Mercado Envios Full (fulfillment),"ready_to_ship, ready_for_pickup",Depósitos,Domicílio,"testes testes E, Test address, E, None, Centro, São Paulo-São Paulo",01029903
